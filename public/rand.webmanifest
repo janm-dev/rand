@@ -1,7 +1,7 @@
 {
 	"short_name": "rand",
 	"name": "Rand - Pick & Roll",
-	"description": "Pick cards, roll dice. With rand, you can quickly and easily pick random cards or roll dice with varying numbers of sides..",
+	"description": "Pick cards, roll dice. With rand, you can quickly and easily pick random cards or roll dice with varying numbers of sides.",
 	"scope": "/",
 	"start_url": "/",
 	"lang": "en",
@@ -9,12 +9,6 @@
 	"theme_color": "#0b3fda",
 	"background_color": "#12161a",
 	"icons": [
-		{
-			"src": "/monochrome.svg",
-			"sizes": "any",
-			"purpose": "monochrome",
-			"type": "image/svg+xml"
-		},
 		{
 			"src": "/monochrome.webp",
 			"sizes": "512x512",
@@ -26,11 +20,6 @@
 			"sizes": "512x512",
 			"purpose": "monochrome",
 			"type": "image/png"
-		},
-		{
-			"src": "/icon.svg",
-			"sizes": "any",
-			"type": "image/svg+xml"
 		},
 		{
 			"src": "/icon-64.png",
@@ -78,12 +67,6 @@
 			"type": "image/avif"
 		},
 		{
-			"src": "/maskable.svg",
-			"sizes": "any",
-			"purpose": "maskable",
-			"type": "image/png"
-		},
-		{
 			"src": "/maskable-128.png",
 			"sizes": "128x128",
 			"purpose": "maskable",
@@ -112,6 +95,23 @@
 			"sizes": "512x512",
 			"purpose": "maskable",
 			"type": "image/avif"
+		},
+		{
+			"src": "/monochrome.svg",
+			"sizes": "any",
+			"purpose": "monochrome",
+			"type": "image/svg+xml"
+		},
+		{
+			"src": "/icon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		},
+		{
+			"src": "/maskable.svg",
+			"sizes": "any",
+			"purpose": "maskable",
+			"type": "image/png"
 		}
 	]
 }
